@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  .perfil {
+    text-align: center;
+    margin: 20px;
+  }
+  .perfil img {
+    width: 150px;
+    border-radius: 50%;
+  }
+  .descripcion {
+    margin: 20px;
+  }
+  .descripcion h3 {
+    font-size: 18px;
+    color: #333;
+  }
+  .descripcion img{
+    text-align: center;
+  }
+  .contacto {
+    margin: 20px;
+  }
+  .contacto h3 {
+    font-size: 18px;
+    color: #333;
+  }
